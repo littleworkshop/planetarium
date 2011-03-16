@@ -1,4 +1,4 @@
-THE PLANETARIUM
+The Planetarium
 ===============
 
 [The Planetarium][demo_url] is a CSS3 experiment that was created for the launch of Firefox 4. It's been featured as a demo in the [Mozilla's Web'O'Wonder][wow_url] gallery.
